@@ -1,0 +1,6 @@
+.mainImage {
+  background-image: url("/images/home_1.jpeg");
+  height: 100vh;
+  object-fit: cover;
+  background-position: 50% 20%;
+}
